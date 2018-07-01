@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Google/ALC Quiz App</string>
+    <string name="option_a">Andy Rubin</string>
+    <string name="option_b">Larry Page</string>
+    <string name="option_c">Nick Sears</string>
+    <string name="option_d">Sundar Pichai</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="high_score">High Scores</string>
+    <string name="question_1">Question 1</string>
+    <string name="Who_are_these_are_the_inventors_of_Android_OS_in_2003">Who and who among these are the inventors of Android OS in 2003?</string>
+    <string name="submit1">Submit</string>
+    <string name="question_2">Question 2</string>
+    <string name="who_is_the_ceo_of_google">Who is the Ceo of Google?</string>
+    <string name="enter_your_answer">Enter Your Answer</string>
+    <string name="submit2">Submit</string>
+    <string name="question_3">Question 3</string>
+    <string name="is_athens_the_southern_most_capital_town_of_europe">Is Athens the southern most capital town of Europe?</string>
+    <string name="yes">Yes</string>
+    <string name="maybe">Maybe</string>
+    <string name="no">No</string>
+    <string name="submit3">Submit</string>
+    <string name="question_4">Question 4</string>
+    <string name="a_frog_is_known_as_what_in_its_larval_stage">A frog is known as what in its larval stage?</string>
+    <string name="salamander">Salamander</string>
+    <string name="tadpole">Tadpole</string>
+    <string name="newt">Newt</string>
+    <string name="maggot">Maggot</string>
+    <string name="submit4">Submit</string>
+    <string name="view_score">View Score</string>
+    <string name="check_your_last_score">Check Your Score</string>
+    <string name="restart_quiz">Restart Quiz</string>
+    <string name="last_score">Last Score</string>
+</resources>
